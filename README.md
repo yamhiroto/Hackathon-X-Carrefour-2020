@@ -1,7 +1,7 @@
 # Hackathon-X-Carrefour-2020
 Carrefour Next Gen RetAIL Challenge - organised by Ecole Polytechnique and Carrefour DataLab
 
-![alt text](https://github.com/yamhiroto/NOSQL-GDELT/raw/master/hackathon-presentation.png)
+![alt text](https://github.com/yamhiroto/Hackathon-X-Carrefour-2020/raw/master/hackathon-presentation.png)
 
 
 ### Context

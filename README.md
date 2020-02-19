@@ -11,14 +11,16 @@ Details about IP-Paris available [here](https://www.ip-paris.fr/en/home-en/ "her
 
 ### Selected Subject : Marketing Mix Modelling 
 
-## 5 weeks of competition from 3rd February to 7th March 2020
+------
+### Duration : 5 weeks of competition from 3rd February to 7th March 2020
 
-### Status : Ongoing.
+### Status : Ongoing
 
 ### Closing day on Saturday 7th March with Awards - Jury from the Executive Management team of the Carrefour DataLab
+------
+
 
 ## **** THE VAPNIK LOVERS ****
-
 
 ### Team Members  
 

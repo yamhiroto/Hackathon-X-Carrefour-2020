@@ -12,11 +12,23 @@ Details about IP-Paris available [here](https://www.ip-paris.fr/en/home-en/ "her
 ### Selected Subject : Marketing Mix Modelling 
 
 ------
-### Duration : 5 weeks of competition from 3rd February to 7th March 2020
-
+### Duration : 5 weeks of competition from 3rd February to ~~7th March 2020~~ ~~12th March 2020~~ 6th April
+### Participation : 26 Teams of 4 members each
 ### Status : Ongoing
 
-### Closing day on Saturday 7th March with Awards - Jury from the Executive Management team of the Carrefour DataLab
+> - **update 1** - 21.02.2020 : VapnikLovers is one of the 12 selected teams out of 26 for the second round of the Hackathon 
+> - **update 2** - 05.03.2020 : VapnikLovers selected for the final round of the Hackathon 
+> - **update 3** - 05.03.2020 : Closing day postponed from Saturday 7th March to Thursday 12th March 2020.
+> - **update 4** - 17.03.2020 : VapnikLovers received the best score for the ~~final~~ second round. Announcement of a final business pitch challenge in front of Carrefour's Executive boards for the 6 best teams.
+
+
+
+### Current Score and Ranking Board
+
+![2NDROUND](https://github.com/yamhiroto/Hackathon-X-Carrefour-2020/raw/master/2NDROUND.PNG)
+
+### Closing day on Saturday ~~7th March 2020~~ ~~12th March 2020~~ 6th April 2020 with the Business pitch in front of the Executive Management team of the Carrefour DataLab.  Followed with the Awards 
+
 ------
 
 

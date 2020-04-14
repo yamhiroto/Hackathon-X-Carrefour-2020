@@ -71,16 +71,7 @@ Full curriculum and details of our degree <a href="https://www.telecom-paris.fr/
 <br>
 Team members :<br>
 
-<p align='center'>
-  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-</p>
-
-</center>
+<br>
 
 <p align="center">
 <table class="tg">
@@ -116,7 +107,7 @@ Team members :<br>
 </p>
 
 
-### As agreed with Carrefour, Data and notebooks won't be published in this repository. Only our last presentation will be available at the end of the challenge, after further approval from the company.
+<b>Note</b> : as agreed with Carrefour, data and notebooks won't be published in this repository.
 
 
 

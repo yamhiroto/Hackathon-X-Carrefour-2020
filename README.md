@@ -8,16 +8,17 @@
 
 <h3>Context</h3>
 This hackathon has been organised by the 1st French Retailer Carrefour (9th worldwide) and Ecole Polytechnique, which is a school from the Institut Polytechnique de Paris (IP Paris) (a public higher education and research institution that brings together five prestigious French engineering schools). <br>
-
+<br>
 More details about IP Paris <a href="https://www.ip-paris.fr/en/home-en/">here</a>.
 <br>
+<br>
 The objective of this challenge was to understand an end-to-end data science project, from the exact definition of the problem, through cleaning and data processing phase, implementation of machine learning algorithms, to get a functional proof of concept. <br>
-
+<br>
 More details about the hackathon <a href="https://www.polytechnique.edu/en/content/new-edition-carrefour-chair-hackathon">here</a>.
 
 The use case we have been working on from the three proposed : <br>
 
-<div align='center'><b>Local Marketing Mix Modelling  
+<div align='center'><b>Local Marketing Mix Modelling  <br>
   Analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
 
 <h3>Key figures</h3>
@@ -31,52 +32,42 @@ The use case we have been working on from the three proposed : <br>
 <h3>Results</h3>
 
 <div align='center'>
-:trophy: First rank :trophy:
+  :trophy: <b>First rank</b> :trophy:
   </div>
 
 <h3>Main stages</h3>
 
-> - **update 1** - 21.02.2020 : VapnikLovers is one of the 12 selected teams out of 26 for the second round of the Hackathon 
->
-> - **update 2** - 05.03.2020 : VapnikLovers selected for the final round of the Hackathon 
->
-> - **update 3** - 05.03.2020 : Closing day postponed from Saturday 7th March to Thursday 12th March 2020.
->
-> - **update 4** - 17.03.2020 : VapnikLovers received the best score for the ~~final~~ second round. Announcement of a final business pitch challenge in front of Carrefour's Executive boards for the 6 best teams.
->
-> - **update 5** - 08.04.2020 : Business Pitch. Waiting for the results
->
-> - **update 6** - 14.04.2020 :  Winner Announcement 
->
->   
+<ul>
+  <li><b>Update 0 - 03.02.2020</b> : Beginning of the Hackathon :checkered_flag:
+  <li><b>Update 1 - 21.02.2020</b> : Vapnik Lovers is one of the 12 selected teams out of 26 for the second round of the Hackathon. </li>
+  <li><b>Update 2 - 05.03.2020</b> : Vapnik Lovers selected for the final round of the Hackathon.</li>
+  <li><b>Update 3 - 05.03.2020</b> : Closing day postponed from Saturday 7th March to Thursday 12th March 2020.</li>
+  <li><b>Update 4 - 17.03.2020</b> : Vapnik Lovers received the best score for the technical evaluation (2nd round).</li>
+  <li><b>Update 5 - 08.04.2020</b> : Final business pitch in front of Carrefour's Executive boards for the 6 best teams.</li>
+  <li><b>Update 6 - 14.04.2020</b> : Winner Announcement.</li> 
+</ul>
 
-### # Status :`Finished`
-
-### `Award Finalists and Winner Announcement` 
+<div align='center'>Award Finalists and Winner Announcement</div>
 
 <p align="center">
-  <img src="final_rank.png" />
+  <img src="final_rank.png" width="500"/>
 </p>
 
-### `Score and Ranking Board after the second round`
+<div align='center'>Score and Ranking Board for the technical evaluation the second round</div>
 
 <p align="center">
-  <img src="2NDROUND.PNG" />
+  <img src="2NDROUND.PNG" width="500"/>
 </p>
+ 
+<h3>Our team</h3>
 
-### Closing day on ~~7th March 2020~~ ~~12th March 2020~~ Wednesday 8th April 2020 with the Business pitch in front of the Executive Management team of the Carrefour DataLab.  
+<div align='center'><b>THE VAPNIK LOVERS :rocket:</b></div>
 
-------
+All the members are students of the Post-Master's Degree in Big Data (Promotion 2019-2020) at Telecom Paris (an IP Paris school). 
 
+Full curriculum and details of our Degree <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
 
-## **** THE VAPNIK LOVERS ****
-
-### Team Members  
-
-All the members are students of the Post-Master's Degree in Machine Learning (Promotion 2019-2020)  at Telecom Paris
-
-Full curriculum and details of our Degree [here](
-https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data "here").
+Team members :
 
 Name  | Github
 ------------- | -------------

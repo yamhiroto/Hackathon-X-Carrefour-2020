@@ -64,12 +64,12 @@ The use case we have been working on from the three proposed : <br>
 <div align='center'><b>THE VAPNIK LOVERS :rocket:</b></div>
 <br>
 All the members are students of the Post-Master's Degree in Big Data (Promotion 2019-2020) at Telecom Paris (an IP Paris school). 
-
+<br>
 Full curriculum and details of our Degree <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
 
 Team members :
  
-<table align='center'> class="tg">
+<table align='center' class="tg">
   <tr>
     <th class="tg-amwm">Name</th>
     <th class="tg-amwm">Github</th>

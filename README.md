@@ -18,7 +18,7 @@ More details about the hackathon <a href="https://www.polytechnique.edu/en/conte
 <br>
 <br>
 The use case we have been working on from the three proposed : <br>
-<br>
+
 <div align='center'><b>Local Marketing Mix Modelling  <br>
   Analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
 

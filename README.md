@@ -6,23 +6,27 @@
   <img src="hackathon-presentation.png" width="700"/>
 </p>
 
-<h3 style="color:blue;">Context</h3>
-This Hackathon has been organised by the French Retailer Carrefour and Ecole Polytechnique, which is an institution from IP-Paris/
-Contestants were students from different schools, following a data-oriented program.
-Details about IP-Paris available [here](https://www.ip-paris.fr/en/home-en/ "here") 
+<h3>Context</h3>
+This hackathon has been organised by the 1st French Retailer Carrefour (9th worldwide) and Ecole Polytechnique, which is a school from the Institut Polytechnique de Paris (IP Paris) (a public higher education and research institution that brings together five prestigious French engineering schools). 
+More details about IP Paris <a href="https://www.ip-paris.fr/en/home-en/">here</a>.
 
-### Selected Subject : Marketing Mix Modelling 
+The objective of this challenge was to understand an end-to-end data science project, from the exact definition of the problem, through cleaning and data processing phase, implementation of machine learning algorithms, to get a functional proof of concept. 
+More details about the hackathon <a href:"https://www.polytechnique.edu/en/content/new-edition-carrefour-chair-hackathon">here</a>.
 
-------
-### Duration : 5 weeks of competition from 3rd February to ~~7th March 2020~~ ~~12th March 2020~~ 8th April
-### Participation : 131 students spread across 26 Teams, with 4 to 6 members in each team.
+The use case we have been working on from the three proposed : <br>
+<div align='center'><b>Local Marketing Mix Modelling: analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
 
-### Data : 30 Datasets with 20 KPI.
+<h3>Key figures</h3>
+<ul>
+  <li><b>Duration</b> : 10 weeks of competition from 3rd February to 8th April (*Delayed closing event (coronavirus)).</li>
+  <li><b>Participants</b> : 132 students spread across 26 Teams, with 4 to 6 members in each team.</li>
+  <li><b>Data</b> : 30 Datasets with 20 KPI.</li>
+  <li><b>Environment</b> : GCP's Virtual Machines, BigQuery and Python. 
+</ul>
 
-### Infrastructure :  Access to GCP's Virtual Machines. 
+<h3>Results</h3>
 
-
-
+:médaille_or:
 # Rank : 1st
 
 > - **update 1** - 21.02.2020 : VapnikLovers is one of the 12 selected teams out of 26 for the second round of the Hackathon 

@@ -70,8 +70,9 @@ Full curriculum and details of our degree <a href="https://www.telecom-paris.fr/
 <br>
 <br>
 Team members :
- 
-<table class="tg" style="border:1px solid black;margin-left:auto;margin-right:auto;">
+
+<p align="center"></p>
+<table class="tg">
   <tr>
     <th class="tg-amwm">Name</th>
     <th class="tg-amwm">Github</th>
@@ -101,6 +102,8 @@ Team members :
     <td class="tg-baqh"><a href="http://github.com/yamhiroto">yamhiroto</a></td>
   </tr>
 </table>
+<p></p>
+
 
 ### As agreed with Carrefour, Data and notebooks won't be published in this repository. Only our last presentation will be available at the end of the challenge, after further approval from the company.
 

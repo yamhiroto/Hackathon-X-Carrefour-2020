@@ -42,7 +42,7 @@ The use case we have been working on from the three proposed : <br>
 
 <ul>
   <li><b>Update 0 - 03.02.2020</b> : Beginning of the Hackathon :checkered_flag:
-  <li><b>Update 1 - 21.02.2020</b> : Vapnik Lovers is one of the 12 selected teams out of 26 for the second round of the Hackathon. </li>
+  <li><b>Update 1 - 21.02.2020</b> : Vapnik Lovers is one of the 12 selected teams out of 26 for the second round. </li>
   <li><b>Update 2 - 05.03.2020</b> : Vapnik Lovers selected for the final round of the Hackathon.</li>
 <br>
 <div align='center'>Score and Ranking Board for the technical evaluation (second round)</div>

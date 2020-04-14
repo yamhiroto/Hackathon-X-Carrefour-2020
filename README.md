@@ -41,7 +41,7 @@ The use case we have been working on from the three proposed : <br>
   <li><b>Update 0 - 03.02.2020</b> : Beginning of the Hackathon :checkered_flag:
   <li><b>Update 1 - 21.02.2020</b> : Vapnik Lovers is one of the 12 selected teams out of 26 for the second round of the Hackathon. </li>
   <li><b>Update 2 - 05.03.2020</b> : Vapnik Lovers selected for the final round of the Hackathon.</li>
-
+<br>
 <div align='center'>Score and Ranking Board for the technical evaluation the second round</div>
 
 <p align="center">
@@ -70,8 +70,7 @@ All the members are students of the Post-Master's Degree in Big Data (Promotion 
 Full curriculum and details of our degree <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
 <br>
 <br>
-Team members :<br>
-
+Team members :
 <br>
 
 <p align="center">

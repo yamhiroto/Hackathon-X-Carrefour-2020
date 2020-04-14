@@ -16,6 +16,7 @@ The objective of this challenge was to understand an end-to-end data science pro
 <br>
 More details about the hackathon <a href="https://www.polytechnique.edu/en/content/new-edition-carrefour-chair-hackathon">here</a>.
 <br>
+<br>
 The use case we have been working on from the three proposed : <br>
 
 <div align='center'><b>Local Marketing Mix Modelling  <br>
@@ -42,7 +43,7 @@ The use case we have been working on from the three proposed : <br>
   <li><b>Update 1 - 21.02.2020</b> : Vapnik Lovers is one of the 12 selected teams out of 26 for the second round of the Hackathon. </li>
   <li><b>Update 2 - 05.03.2020</b> : Vapnik Lovers selected for the final round of the Hackathon.</li>
 <br>
-<div align='center'>Score and Ranking Board for the technical evaluation the second round</div>
+<div align='center'>Score and Ranking Board for the technical evaluation (second round)</div>
 
 <p align="center">
   <img src="2NDROUND.PNG" width="400"/>
@@ -73,7 +74,6 @@ Full curriculum and details of our degree <a href="https://www.telecom-paris.fr/
 Team members :
 <br>
 
-<p align="center">
 <table class="tg">
   <tr>
     <th class="tg-amwm">Name</th>
@@ -104,9 +104,8 @@ Team members :
     <td class="tg-baqh"><a href="http://github.com/yamhiroto">yamhiroto</a></td>
   </tr>
 </table>
-</p>
 
-
+<br>
 <b>Note</b> : as agreed with Carrefour, data and notebooks won't be published in this repository.
 
 

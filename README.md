@@ -1,8 +1,9 @@
 # Hackathon-X-Carrefour-2020
 Carrefour Next Gen RetAIL Challenge - organised by Ecole Polytechnique and Carrefour DataLab
 
-![alt text](https://github.com/yamhiroto/Hackathon-X-Carrefour-2020/raw/master/hackathon-presentation.png)
-
+<p align="center">
+  <img src="hackathon-presentation.png" />
+</p>
 
 ### Context
 This Hackathon has been organised by the French Retailer Carrefour and Ecole Polytechnique, which is an institution from IP-Paris/
@@ -41,11 +42,15 @@ Details about IP-Paris available [here](https://www.ip-paris.fr/en/home-en/ "her
 
 ### `Award Finalists and Winner Announcement` 
 
-![final_rank](https://github.com/yamhiroto/Hackathon-X-Carrefour-2020/raw/master/final_rank.png)
+<p align="center">
+  <img src="final_rank.png" />
+</p>
 
 ### `Score and Ranking Board after the second round`
 
-![2NDROUND](https://github.com/yamhiroto/Hackathon-X-Carrefour-2020/raw/master/2NDROUND.PNG)
+<p align="center">
+  <img src="2NDROUND.PNG" />
+</p>
 
 ### Closing day on ~~7th March 2020~~ ~~12th March 2020~~ Wednesday 8th April 2020 with the Business pitch in front of the Executive Management team of the Carrefour DataLab.  
 

@@ -7,13 +7,14 @@
 </p>
 
 <h3>Context</h3>
-This hackathon has been organised by the 1st French Retailer Carrefour (9th worldwide) and Ecole Polytechnique, which is a school from the Institut Polytechnique de Paris (IP Paris) (a public higher education and research institution that brings together five prestigious French engineering schools). 
+This hackathon has been organised by the 1st French Retailer Carrefour (9th worldwide) and Ecole Polytechnique, which is a school from the Institut Polytechnique de Paris (IP Paris) (a public higher education and research institution that brings together five prestigious French engineering schools). <br>
 More details about IP Paris <a href="https://www.ip-paris.fr/en/home-en/">here</a>.
 
-The objective of this challenge was to understand an end-to-end data science project, from the exact definition of the problem, through cleaning and data processing phase, implementation of machine learning algorithms, to get a functional proof of concept. 
-More details about the hackathon <a href:"https://www.polytechnique.edu/en/content/new-edition-carrefour-chair-hackathon">here</a>.
+The objective of this challenge was to understand an end-to-end data science project, from the exact definition of the problem, through cleaning and data processing phase, implementation of machine learning algorithms, to get a functional proof of concept. <br>
+More details about the hackathon <a href="https://www.polytechnique.edu/en/content/new-edition-carrefour-chair-hackathon">here</a>.
 
 The use case we have been working on from the three proposed : <br>
+
 <div align='center'><b>Local Marketing Mix Modelling: analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
 
 <h3>Key figures</h3>
@@ -26,8 +27,11 @@ The use case we have been working on from the three proposed : <br>
 
 <h3>Results</h3>
 
-:médaille_or:
-# Rank : 1st
+<div align='center'>
+:trophy: First rank :trophy:
+  </div>
+
+<h3>Main stages</h3>
 
 > - **update 1** - 21.02.2020 : VapnikLovers is one of the 12 selected teams out of 26 for the second round of the Hackathon 
 >

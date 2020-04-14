@@ -6,7 +6,7 @@
   <img src="hackathon-presentation.png" width="700"/>
 </p>
 
-<h3>:small_blue_diamond: Context</h3>
+## :small_blue_diamond: Context
 This hackathon has been organised by the 1st French Retailer Carrefour (9th worldwide) and Ecole Polytechnique, which is a school from the Institut Polytechnique de Paris (IP Paris) (a public higher education and research institution that brings together five prestigious French engineering schools). <br>
 <br>
 More details about IP Paris <a href="https://www.ip-paris.fr/en/home-en/">here</a>.
@@ -22,9 +22,8 @@ The use case we have been working on from the three proposed : <br>
 <div align='center'><b>Local Marketing Mix Modelling  <br>
   Analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
 
-____
 
-<h3>:small_blue_diamond: Key figures</h3>
+## :small_blue_diamond: Key figures
 <ul>
   <li><b>Duration</b> : 10 weeks of competition from 3rd February to 8th April (*Delayed closing event (coronavirus)).</li>
   <li><b>Participants</b> : 132 students spread across 26 Teams, with 4 to 6 members in each team.</li>
@@ -32,17 +31,14 @@ ____
   <li><b>Environment</b> : GCP's Virtual Machines, BigQuery and Python. 
 </ul>
 
-____
-
-<h3>:small_blue_diamond: Results</h3>
+## :small_blue_diamond: Results
 
 <div align='center'>
   :trophy: <b>First rank</b> :trophy:
   </div>
 
-____
 
-<h3>:small_blue_diamond: Main stages</h3>
+## :small_blue_diamond: Main stages
 
 <ul>
   <li><b>Update 0 - 03.02.2020</b> : Beginning of the Hackathon :checkered_flag:
@@ -67,9 +63,8 @@ ____
   <img src="final_rank.png" width="400"/>
 </p>
 
-____
 
-<h3>:small_blue_diamond: Presentation of our team</h3>
+## :small_blue_diamond: Presentation of our team
 
 <div align='center'><b>THE VAPNIK LOVERS :rocket:</b></div>
 <br>

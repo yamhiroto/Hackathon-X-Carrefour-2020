@@ -71,13 +71,15 @@ Full curriculum and details of our degree <a href="https://www.telecom-paris.fr/
 <br>
 Team members :<br>
 
-<center>
+<p align='center'>
   
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-  
+
+</p>
+
 </center>
 
 <p align="center">

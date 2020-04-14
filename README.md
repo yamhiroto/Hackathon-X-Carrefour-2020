@@ -41,6 +41,13 @@ The use case we have been working on from the three proposed : <br>
   <li><b>Update 0 - 03.02.2020</b> : Beginning of the Hackathon :checkered_flag:
   <li><b>Update 1 - 21.02.2020</b> : Vapnik Lovers is one of the 12 selected teams out of 26 for the second round of the Hackathon. </li>
   <li><b>Update 2 - 05.03.2020</b> : Vapnik Lovers selected for the final round of the Hackathon.</li>
+
+<div align='center'>Score and Ranking Board for the technical evaluation the second round</div>
+
+<p align="center">
+  <img src="2NDROUND.PNG" width="400"/>
+</p>
+
   <li><b>Update 3 - 05.03.2020</b> : Closing day postponed from Saturday 7th March to Thursday 12th March 2020.</li>
   <li><b>Update 4 - 17.03.2020</b> : Vapnik Lovers received the best score for the technical evaluation (2nd round).</li>
   <li><b>Update 5 - 08.04.2020</b> : Final business pitch in front of Carrefour's Executive boards for the 6 best teams.</li>
@@ -53,13 +60,7 @@ The use case we have been working on from the three proposed : <br>
   <img src="final_rank.png" width="400"/>
 </p>
 
-<div align='center'>Score and Ranking Board for the technical evaluation the second round</div>
-
-<p align="center">
-  <img src="2NDROUND.PNG" width="400"/>
-</p>
-
-<h3>Our team</h3>
+<h3>Presentation of our team</h3>
 
 <div align='center'><b>THE VAPNIK LOVERS :rocket:</b></div>
 <br>

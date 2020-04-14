@@ -1,7 +1,8 @@
-# Hackathon-X-Carrefour-2020
-Carrefour Next Gen RetAIL Challenge - organised by Ecole Polytechnique and Carrefour DataLab
+<div align='center'><h2>2nd Artificial Intelligence and Data Science challenge</h2></div>
 
-<p align="center">
+organised by The Ecole Polytechnique and the Carrefour DataLab (2nd Hackathon of the Next Gen RetAIl Carrefour Chaire)
+
+<p align="center" width="50">
   <img src="hackathon-presentation.png" />
 </p>
 

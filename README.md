@@ -5,7 +5,7 @@ Carrefour Next Gen RetAIL Challenge - organised by Ecole Polytechnique and Carre
 
 
 ### Context
-This Hackathon has been organised by the French Retailer Carrefour and Ecole Polytechnique, which is an institution from IP-Paris
+This Hackathon has been organised by the French Retailer Carrefour and Ecole Polytechnique, which is an institution from IP-Paris/
 Contestants were students from different schools, following a data-oriented program.
 Details about IP-Paris available [here](https://www.ip-paris.fr/en/home-en/ "here") 
 
@@ -21,24 +21,29 @@ Details about IP-Paris available [here](https://www.ip-paris.fr/en/home-en/ "her
 
 
 
-### Status : Finished
-
 # Rank : 1st
 
 > - **update 1** - 21.02.2020 : VapnikLovers is one of the 12 selected teams out of 26 for the second round of the Hackathon 
+>
 > - **update 2** - 05.03.2020 : VapnikLovers selected for the final round of the Hackathon 
+>
 > - **update 3** - 05.03.2020 : Closing day postponed from Saturday 7th March to Thursday 12th March 2020.
+>
 > - **update 4** - 17.03.2020 : VapnikLovers received the best score for the ~~final~~ second round. Announcement of a final business pitch challenge in front of Carrefour's Executive boards for the 6 best teams.
+>
 > - **update 5** - 08.04.2020 : Business Pitch. Waiting for the results
+>
 > - **update 6** - 14.04.2020 :  Winner Announcement 
+>
+>   
 
+### # Status :`Finished`
 
+### `Award Finalists and Winner Announcement` 
 
-### Award Finalists and Winner Announcement 
+![final_rank](https://github.com/yamhiroto/Hackathon-X-Carrefour-2020/raw/master/final_rank.png)
 
-![final_rank](https://github.com/yamhiroto/Hackathon-X-Carrefour-2020/raw/master/final_rank.PNG)
-
-### Score and Ranking Board after the second round
+### `Score and Ranking Board after the second round`
 
 ![2NDROUND](https://github.com/yamhiroto/Hackathon-X-Carrefour-2020/raw/master/2NDROUND.PNG)
 
@@ -51,7 +56,7 @@ Details about IP-Paris available [here](https://www.ip-paris.fr/en/home-en/ "her
 
 ### Team Members  
 
-All the members are students of the Post-Master's Degree (Promotion 2019-2020) at Telecom Paris
+All the members are students of the Post-Master's Degree in Machine Learning (Promotion 2019-2020)  at Telecom Paris
 
 Full curriculum and details of our Degree [here](
 https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data "here").

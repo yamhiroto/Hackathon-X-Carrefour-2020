@@ -65,11 +65,13 @@ The use case we have been working on from the three proposed : <br>
 <br>
 All the members are students of the Post-Master's Degree in Big Data (Promotion 2019-2020) at Telecom Paris (an IP Paris school). 
 <br>
-Full curriculum and details of our Degree <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
-
+<br>
+Full curriculum and details of our degree <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
+<br>
+<br>
 Team members :
  
-<table align='center' class="tg">
+<table class="tg" style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <th class="tg-amwm">Name</th>
     <th class="tg-amwm">Github</th>

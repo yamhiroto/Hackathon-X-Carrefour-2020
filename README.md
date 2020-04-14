@@ -70,14 +70,38 @@ Full curriculum and details of our Degree <a href="https://www.telecom-paris.fr/
 Team members :
 
 <div align='center'>
-Name  | Github
-------------- | -------------
-Camille Cochener | [camillecochener](http://github.com/camillecochener "camillecochene") 
-Jeremie Peres | [jeremieperes](http://github.com/jeremieperes "jeremieperes")
-Vincent Richard | [vincrichard](http://github.com/vincrichard "vincrichard")
-Thomas Rivière | [t-riviere](http://github.com/t-riviere "t-riviere")
-Lea Wu | [lilawu](http://github.com/lilawu "lilawu")
-Hiroto Yamakakawa | [Yamhiroto](http://github.com/yamhiroto "yamhiroto")
+ 
+  <table class="tg">
+  <tr>
+    <th class="tg-amwm">Name</th>
+    <th class="tg-amwm">Github</th>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Camille COCHENER</td>
+    <td class="tg-baqh"><a href="http://github.com/camillecochener">camillecochener</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Jérémie PERES</td>
+    <td class="tg-baqh"><a href="http://github.com/jeremieperes">jeremieperes</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Vincent RICHARD</td>
+    <td class="tg-baqh"><a href="http://github.com/vincrichard">vincrichard</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Thomas RIVIERE</td>
+    <td class="tg-baqh"><a href="http://github.com/t-riviere">t-riviere</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Léa WU</td>
+    <td class="tg-baqh"><a href="http://github.com/lilawu">lilawu</a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Hiroto YAMAKAWA</td>
+    <td class="tg-baqh"><a href="http://github.com/yamhiroto">yamhiroto</a></td>
+  </tr>
+</table>
+
 </div>
 
 ### As agreed with Carrefour, Data and notebooks won't be published in this repository. Only our last presentation will be available at the end of the challenge, after further approval from the company.

@@ -15,7 +15,7 @@ More details about IP Paris <a href="https://www.ip-paris.fr/en/home-en/">here</
 The objective of this challenge was to understand an end-to-end data science project, from the exact definition of the problem, through cleaning and data processing phase, implementation of machine learning algorithms, to get a functional proof of concept. <br>
 <br>
 More details about the hackathon <a href="https://www.polytechnique.edu/en/content/new-edition-carrefour-chair-hackathon">here</a>.
-
+<br>
 The use case we have been working on from the three proposed : <br>
 
 <div align='center'><b>Local Marketing Mix Modelling  <br>
@@ -50,25 +50,26 @@ The use case we have been working on from the three proposed : <br>
 <div align='center'>Award Finalists and Winner Announcement</div>
 
 <p align="center">
-  <img src="final_rank.png" width="500"/>
+  <img src="final_rank.png" width="400"/>
 </p>
 
 <div align='center'>Score and Ranking Board for the technical evaluation the second round</div>
 
 <p align="center">
-  <img src="2NDROUND.PNG" width="500"/>
+  <img src="2NDROUND.PNG" width="400"/>
 </p>
- 
+
 <h3>Our team</h3>
 
 <div align='center'><b>THE VAPNIK LOVERS :rocket:</b></div>
-
+<br>
 All the members are students of the Post-Master's Degree in Big Data (Promotion 2019-2020) at Telecom Paris (an IP Paris school). 
 
 Full curriculum and details of our Degree <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
 
 Team members :
 
+<div align='center'>
 Name  | Github
 ------------- | -------------
 Camille Cochener | [camillecochener](http://github.com/camillecochener "camillecochene") 
@@ -77,7 +78,7 @@ Vincent Richard | [vincrichard](http://github.com/vincrichard "vincrichard")
 Thomas Rivière | [t-riviere](http://github.com/t-riviere "t-riviere")
 Lea Wu | [lilawu](http://github.com/lilawu "lilawu")
 Hiroto Yamakakawa | [Yamhiroto](http://github.com/yamhiroto "yamhiroto")
-
+</div>
 
 ### As agreed with Carrefour, Data and notebooks won't be published in this repository. Only our last presentation will be available at the end of the challenge, after further approval from the company.
 

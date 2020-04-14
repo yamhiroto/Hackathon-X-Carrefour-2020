@@ -68,10 +68,8 @@ All the members are students of the Post-Master's Degree in Big Data (Promotion 
 Full curriculum and details of our Degree <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
 
 Team members :
-
-<div align='center'>
  
-  <table class="tg">
+<table align='center'> class="tg">
   <tr>
     <th class="tg-amwm">Name</th>
     <th class="tg-amwm">Github</th>
@@ -101,8 +99,6 @@ Team members :
     <td class="tg-baqh"><a href="http://github.com/yamhiroto">yamhiroto</a></td>
   </tr>
 </table>
-
-</div>
 
 ### As agreed with Carrefour, Data and notebooks won't be published in this repository. Only our last presentation will be available at the end of the challenge, after further approval from the company.
 

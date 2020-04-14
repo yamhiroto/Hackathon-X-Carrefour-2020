@@ -1,12 +1,12 @@
 <div align='center'><h2>2nd Artificial Intelligence and Data Science challenge</h2></div>
 
-organised by The Ecole Polytechnique and the Carrefour DataLab (2nd Hackathon of the Next Gen RetAIl Carrefour Chaire)
+<div align='center'>organised by the <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a> and the <a href="https://www.carrefour.com/fr">Carrefour</a> DataLab (2nd Hackathon of the <a href="https://www.polytechnique.edu/fondation/content/carrefour-l%E2%80%99x-et-la-fx-cr%C3%A9ent-la-chaire-%C2%AB-next-gen-retail-%C2%BB">Next Gen RetAIl Carrefour Chaire</a>)</div>
 
-<p align="center" width="50">
-  <img src="hackathon-presentation.png" />
+<p align="center">
+  <img src="hackathon-presentation.png" width="700"/>
 </p>
 
-### Context
+<h3><font color="darkblue"> Context</font></h3>
 This Hackathon has been organised by the French Retailer Carrefour and Ecole Polytechnique, which is an institution from IP-Paris/
 Contestants were students from different schools, following a data-oriented program.
 Details about IP-Paris available [here](https://www.ip-paris.fr/en/home-en/ "here") 

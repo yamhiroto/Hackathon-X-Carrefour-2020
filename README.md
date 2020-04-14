@@ -71,6 +71,13 @@ Full curriculum and details of our degree <a href="https://www.telecom-paris.fr/
 <br>
 Team members :
 
+<center>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+</center>
+
 <p align="center">
 <table class="tg">
   <tr>

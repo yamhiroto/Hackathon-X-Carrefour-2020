@@ -69,13 +69,15 @@ All the members are students of the Post-Master's Degree in Big Data (Promotion 
 Full curriculum and details of our degree <a href="https://www.telecom-paris.fr/en/post-masters-degree/all-post-masters-degree/post-masters-degree-in-big-data">here</a>.
 <br>
 <br>
-Team members :
+Team members :<br>
 
 <center>
+  
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+  
 </center>
 
 <p align="center">

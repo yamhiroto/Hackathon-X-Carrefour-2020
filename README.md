@@ -8,14 +8,17 @@
 
 <h3>Context</h3>
 This hackathon has been organised by the 1st French Retailer Carrefour (9th worldwide) and Ecole Polytechnique, which is a school from the Institut Polytechnique de Paris (IP Paris) (a public higher education and research institution that brings together five prestigious French engineering schools). <br>
-More details about IP Paris <a href="https://www.ip-paris.fr/en/home-en/">here</a>.
 
+More details about IP Paris <a href="https://www.ip-paris.fr/en/home-en/">here</a>.
+<br>
 The objective of this challenge was to understand an end-to-end data science project, from the exact definition of the problem, through cleaning and data processing phase, implementation of machine learning algorithms, to get a functional proof of concept. <br>
+
 More details about the hackathon <a href="https://www.polytechnique.edu/en/content/new-edition-carrefour-chair-hackathon">here</a>.
 
 The use case we have been working on from the three proposed : <br>
 
-<div align='center'><b>Local Marketing Mix Modelling: analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
+<div align='center'><b>Local Marketing Mix Modelling  
+  Analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
 
 <h3>Key figures</h3>
 <ul>

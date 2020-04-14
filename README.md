@@ -22,6 +22,8 @@ The use case we have been working on from the three proposed : <br>
 <div align='center'><b>Local Marketing Mix Modelling  <br>
   Analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
 
+____
+
 <h3>:small_blue_diamond: Key figures</h3>
 <ul>
   <li><b>Duration</b> : 10 weeks of competition from 3rd February to 8th April (*Delayed closing event (coronavirus)).</li>
@@ -30,11 +32,15 @@ The use case we have been working on from the three proposed : <br>
   <li><b>Environment</b> : GCP's Virtual Machines, BigQuery and Python. 
 </ul>
 
+____
+
 <h3>:small_blue_diamond: Results</h3>
 
 <div align='center'>
   :trophy: <b>First rank</b> :trophy:
   </div>
+
+____
 
 <h3>:small_blue_diamond: Main stages</h3>
 
@@ -60,6 +66,8 @@ The use case we have been working on from the three proposed : <br>
 <p align="center">
   <img src="final_rank.png" width="400"/>
 </p>
+
+____
 
 <h3>:small_blue_diamond: Presentation of our team</h3>
 

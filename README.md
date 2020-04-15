@@ -19,7 +19,7 @@ More details about the hackathon <a href="https://www.polytechnique.edu/en/conte
 <br>
 The theme we have been working on from the three proposed : <br>
 
-<div align='center'><b>Local Marketing Mix Modelling  <br>
+<div align='center'><b>Local Marketing Mix Modeling  <br>
   Analysis, prediction of the impact of marketing media, levers on offline and online sales.</b></div>
 
 

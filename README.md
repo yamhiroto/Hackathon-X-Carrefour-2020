@@ -112,6 +112,12 @@ Team members :
 <br>
 <b>Note</b> : as agreed with Carrefour, data and notebooks won't be published in this repository.
 
+## They talked about us
+
+<ul>
+  <li><a href="https://www.telecom-paris.fr/telecom-paris-remporte-hackathon-x-carrefour-ai-data-science">Télécom Paris</a></li>
+  <li><a href="https://www.polytechnique.edu/fr/content/retour-sur-le-hackathon-de-la-chaire-de-lx-next-gen-retail">Ecole Polytechnique</a></li>
+</ul>
 
 
 
